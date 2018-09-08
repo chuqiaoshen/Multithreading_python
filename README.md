@@ -4,5 +4,5 @@ Everything about multithreading in python
 ###youtube
 * [Introduction to multithreading in Python](https://www.youtube.com/watch?v=PJ4t2U15ACo)
 * [Python multi-threading ](https://www.youtube.com/watch?v=i1SW4q9yUEs)
-###Website tutorials
+# Online tutorials
 * [Multithreading Tutorials](https://www.shanelynn.ie/using-python-threading-for-multiple-results-queue/)
