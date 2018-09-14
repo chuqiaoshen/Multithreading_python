@@ -15,4 +15,4 @@ Everything about multithreading in python
 
 #### [Little trick useragent for scraping](http://www.useragentstring.com/pages/useragentstring.php?name=Lynx)
 
-### [Udemy](https://www.udemy.com/distributed-tasks-demystified-with-celery-python/learn/v4/overview)
+### [Udemy Courses](https://www.udemy.com/distributed-tasks-demystified-with-celery-python/learn/v4/overview)
