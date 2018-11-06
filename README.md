@@ -17,3 +17,14 @@ Everything about multithreading in python
 #### [Little trick useragent for scraping](http://www.useragentstring.com/pages/useragentstring.php?name=Lynx)
 
 ### [Udemy Courses](https://www.udemy.com/distributed-tasks-demystified-with-celery-python/learn/v4/overview)
+
+### [Lib collections - Concurrency and Parallelism]
+*Libraries for concurrent and parallel execution.*
+* [concurrent.futures](https://docs.python.org/3/library/multiprocessing.html) - (Python standard library) Process-based "[threading](https://docs.python.org/3/library/threading.html)" interface.
+* [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) - (Python standard library) A high-level interface for asynchronously executing callables.
+* [eventlet](http://eventlet.net/) - Asynchronous framework with WSGI support.
+* [gevent](http://www.gevent.org/) - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet).
+* [SCOOP](https://github.com/soravux/scoop) - Scalable Concurrent Operations in Python.
+* [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
+* [Tomorrow](https://github.com/madisonmay/Tomorrow) - Magic decorator syntax for asynchronous code.
+
